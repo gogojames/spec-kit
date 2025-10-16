@@ -147,7 +147,7 @@ AGENT_CONFIG = {
     "iflow": {
        "name":"iFlow CLI 是一款终端AI助手，可以分析代码、执行编程任务、处理文件操作",
         "folder": ".iflow/",
-        "install_url": "",
+        "install_url": "https://gitee.com/iflow-ai/iflow-cli",
         "requires_cli": True,
     }
 }
