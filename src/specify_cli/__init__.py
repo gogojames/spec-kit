@@ -144,6 +144,12 @@ AGENT_CONFIG = {
         "install_url": "https://aws.amazon.com/developer/learning/q-developer-cli/",
         "requires_cli": True,
     },
+    "iflow": {
+       "name":"iFlow CLI 是一款终端AI助手，可以分析代码、执行编程任务、处理文件操作",
+        "folder": ".iflow/",
+        "install_url": "",
+        "requires_cli": True,
+    }
 }
 
 SCRIPT_TYPE_CHOICES = {"sh": "POSIX Shell (bash/zsh)", "ps": "PowerShell"}
